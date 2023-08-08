@@ -1,2 +1,3 @@
 # DiscordBot
 Creating a bot using Discord API
+Still in progress...
